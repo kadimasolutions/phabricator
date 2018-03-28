@@ -1,4 +1,6 @@
-# Phabricator
+# Phabricator -- Kadima Patches
+
+> **NOTE:** This is a temporary branch that is for the small changes to the startup scripts for the kadimasolutions/phabricator Docker image. The image is built using kadima.Dockerfile. This is only necessary until the kadimasolutions pull requests get pulled in to the redpointgames/phabricator image. After that this branch can be deleted.
 
 This is a Docker image which provides a fully configured Phabricator image, including SSH connectivity to repositories, real-time notifications via Web Sockets and all of the other parts that are normally difficult to configure done for you.
 
